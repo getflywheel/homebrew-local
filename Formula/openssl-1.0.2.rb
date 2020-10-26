@@ -1,5 +1,6 @@
 # A Formula for the openssl 1.0.2 based on
 # https://raw.githubusercontent.com/Homebrew/homebrew-core/64555220bfbf4a25598523c2e4d3a232560eaad7/Formula/openssl.rb
+# We rely on this Formula for compiling PHP@5.6.39
 
 # This formula tracks 1.0.2 branch of OpenSSL, not the 1.1.0 branch. Due to
 # significant breaking API changes in 1.1.0 other formulae will be migrated
