@@ -1,3 +1,7 @@
+# Archived on June 12th 2025
+
+## No longer a dependancy, removed when we migrated compilation from Azure to CircleCI
+
 # Getflywheel Local
 
 ## How do I install these formulae?
